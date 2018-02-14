@@ -1,0 +1,12 @@
+body{
+	background:tan;
+}
+
+form{
+	background-color: purple;
+	height: 400px;
+	width: 300px;
+	position: relative;
+	top: 152px;
+	left: 542px
+}
